@@ -1,2 +1,3 @@
 # odin-recipes
-"This is the first step. How about this step. still confuse."
+"Build a basic recipe website"
+"The is the first time using git"
